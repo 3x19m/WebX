@@ -18,9 +18,9 @@ Console / ريدوي
 
 * `cd WebX`
 
-* `chmod +x WebX.sh`
+* `chmod +x Hax4_WebX.sh`
 
-* `bash WebX.sh`
+* `bash Hax4_WebX.sh`
 
 
 ### ( FREE OF COST ) 
