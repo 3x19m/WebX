@@ -5,7 +5,7 @@
 <p align="center">
 Console / ريدوي
 
-### 𝐇𝐚𝐱_𝐖𝐞𝐛𝐗
+### 𝐖𝐞𝐛𝐗
 
 𝐁𝐲 𝐭𝐡𝐢𝐬 𝐭𝐨𝐨𝐥 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐭𝐡𝐞 𝐟𝐮𝐥𝐥 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞 𝐨𝐟 𝐚𝐧𝐲 𝐰𝐞𝐛𝐬𝐢𝐭𝐞.
 𝐘𝐨𝐮 𝐚𝐥𝐬𝐨 𝐜𝐚𝐧 𝐜𝐨𝐩𝐲 𝐭𝐡𝐞 𝐰𝐡𝐨𝐥𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞. 💾
@@ -14,13 +14,13 @@ Console / ريدوي
 
 * `apt install wget curl`
 
-* `git clone https://github.com/h4x3r1/Hax4_WebX`
+* `git clone https://github.com/h4x3r1/WebX`
 
-* `cd Hax4_WebX`
+* `cd WebX`
 
-* `chmod +x Hax4_WebX.sh`
+* `chmod +x WebX.sh`
 
-* `bash Hax4_WebX.sh`
+* `bash WebX.sh`
 
 
 ### ( FREE OF COST ) 
